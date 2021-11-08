@@ -1,0 +1,66 @@
+.fullscreen {
+    height: 450px !important;
+}
+
+.header-top {
+    height: 40px !important;
+    line-height: 40px !important;
+    background-color: #111;
+    color: #FFF !important;
+}
+
+.banner-area {
+    background: url(../img/banner-bg.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 150px;
+}
+
+.banner{
+    height: auto;
+    width: 100%;
+}
+
+.about-content {
+    margin-top: 00px;
+    padding: 50px 0px;
+}
+
+.header-top .header-top-left {
+    border-right: 0px solid #cccccc;
+    display: inline-block;
+}
+
+.header-top a {
+    color: #fff;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+.header-top ul {
+    display: inline-block;
+    border-right: 0px solid #cccccc;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.contact-page-area .form-area textarea {
+    height: 212px !important;
+}
+
+.mensagem{padding: 15px; text-align: center; margin-bottom: 20px;}
+
+.single-blog .date {
+    background-color: #000;
+    color: #fff;
+    font-weight: bold;
+    padding: 2px 15px;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.single-blog h4 {
+    font-weight: 300;
+}
