@@ -1,9 +1,9 @@
 <?php
 // informações do banco de dados (SITE)
-define("BD_HOST","eukerodecoracoes.com.br");
-define("BD_USUARIO","eukerode_novo");
-define("BD_SENHA","bOayI0swe$0B");
-define("BD_BANCO","eukerode_novo");
+define("BD_HOST","eukerodecoraco.mysql.dbaas.com.br");
+define("BD_USUARIO","eukerodecoraco");
+define("BD_SENHA","Web@259864");
+define("BD_BANCO","eukerodecoraco");
 
 
 // informações do painel
